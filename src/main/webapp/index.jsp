@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>               Hello Friends! @i am from RELEASE_1.0.0       </h2>
+<h2>               Hello Friends! @ I am from RELEASE_2.0.0       </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS --WITH-- GCP !!!!!     </h3>
 <h4> @Trainers - SATYA / KIRAN / MUNESH  / FAYAZ    </h4>
 <marquee behavior="alternate">Devops</marquee>
